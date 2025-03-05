@@ -18,7 +18,7 @@
     width: 80vw;
     align-items: center;
     padding: 40px;
-    background: rgba(255, 255, 255, 0.15);
+    background: rgba(40, 40, 40, 0.7);
 ; 
     border-radius: 15px;
     backdrop-filter: blur(20px); 
@@ -63,7 +63,7 @@
     height: 160px;
 
     
-    background: rgba(0, 0, 0, 0.8); 
+    background: rgba(13, 13, 13, 0.5); 
     backdrop-filter: blur(12px);
     
     
