@@ -21,7 +21,7 @@ const Dashboard=()=>{
     return (
         <div className='dashboard-bg'
         style={{
-            backgroundImage: `url('/images/darkBg.jpg')`,
+            backgroundImage: `url('/images/darkBg1.webp')`,
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundAttachment: 'fixed',
