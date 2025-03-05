@@ -7,7 +7,7 @@ import About from "../About"
 import Skills from '../Skills'
 import Projects from '../Projects'
 import Contact from "../Contact"
-import darkBg from "../../assets/darkBg.jpg";
+
 
 import "./index.css"
 
@@ -21,7 +21,7 @@ const Dashboard=()=>{
     return (
         <div className='dashboard-bg'
         style={{
-            backgroundImage: `url(${darkBg})`,
+            backgroundImage: `url('/images/darkBg.jpg')`,
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundAttachment: 'fixed',
