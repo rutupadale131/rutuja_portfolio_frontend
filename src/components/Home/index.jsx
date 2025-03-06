@@ -55,7 +55,7 @@ class Home extends Component{
                         <FaBehanceSquare size={30} className="link-icon"/>
                     </a>
                     </motion.div>
-                    <a href="/Rutuja_Padale_Resume_2025.pdf" download="Rutuja_Padale_Resume.pdf">
+                    <a href="/Rutuja_Padale_Resume2025.pdf" download="Rutuja_Padale_Resume2025.pdf">
                     <motion.button 
                     initial={{opacity:0,scale:0.8}}
                     animate={{opacity:1,scale:1}}
