@@ -14,7 +14,7 @@ class Home extends Component{
                     animate={{opacity:1, y:0}}
                     transition={{duration:1.5,ease:"easeIn"}}
                     >
-                        <h1 className="intro-heading">Hi! It’s Rutuja Padale.<br/>
+                        <h1 className="intro-heading">Hi! It’s Rutuja Padale<br/>
                         I’m a <span className="text-highlight"> Web Developer &
                         a UX Designer</span>
                         </h1>

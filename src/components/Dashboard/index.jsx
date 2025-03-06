@@ -28,7 +28,7 @@ const Dashboard=()=>{
         }}
         >
             <div className="header">
-             <h1 className='logo'>Rutuja.</h1>
+             <h1 className='logo'>Rutuja</h1>
              <div className="hamburger-menu" onClick={toggleMenu}>
                     {isOpen ? <FaTimes /> : <FaBars />}
                 </div>

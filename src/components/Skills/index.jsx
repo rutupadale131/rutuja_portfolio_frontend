@@ -5,17 +5,17 @@ const techStackList=[
     {
         id:uuidv4(),
         name:"Frontend Development",
-        skills:"ReactJs, HTML, CSS , Javascript, Framer Motion",
+        skills:"ReactJs, HTML, CSS, Javascript, Framer Motion",
     },
     {
         id:uuidv4(),
         name:"Backend Development & Database",
-        skills:"NodeJs, Express,JWT Authentication/Authorization, SQL , SQLite",
+        skills:"NodeJs, Express, JWT Authentication/Authorization, SQL, SQLite",
     },
     {
         id:uuidv4(),
         name:"Version Control & Deployment",
-        skills:"Git, GitHub , Railway, Vercel",
+        skills:"Git, GitHub, Railway, Vercel",
     },
     {
         id:uuidv4(),
@@ -28,22 +28,22 @@ const softSkills=[
     {
         id:uuidv4(),
         title:"Teamwork",
-        description:"Collaborative approach to solving problems effectively."
+        description:"Collaborative approach to solving problems effectively"
     },
     {
         id:uuidv4(),
         title:"Communication",
-        description:"Ability to convey ideas clearly to clients and teams."
+        description:"Ability to convey ideas clearly to clients and teams"
     },
     {
         id:uuidv4(),
         title:"Adapability",
-        description:"Quick to learn and adapt to new tools, frameworks, and challenges."
+        description:"Quick to learn and adapt to new tools, frameworks, and challenges"
     },
     {
         id:uuidv4(),
         title:"Problem-Solving",
-        description:"Analytical approach to solving development and design challenges."
+        description:"Analytical approach to solving development and design challenges"
     }
 ]
 console.log(techStackList,softSkills)
