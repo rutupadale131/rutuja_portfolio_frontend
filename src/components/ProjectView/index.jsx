@@ -40,7 +40,7 @@ const projectsList = [
             "🌐 Responsive & modern UI with a clean dark theme",
             "🚀 Deployed on Vercel (Frontend) & Railway (Backend)"
         ],
-        gitLink:"abcd",
+        gitLink:"https://github.com/rutupadale131/rutuja-padale-portfolio.git",
         liveLink:null,
     },
     {
